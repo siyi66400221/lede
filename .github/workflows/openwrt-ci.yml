@@ -150,6 +150,7 @@ CONFIG_PACKAGE_luci-theme-argon=y
 CONFIG_PACKAGE_luci-theme-bootstrap=y
 CONFIG_PACKAGE_luci-theme-netgear=y
 CONFIG_PACKAGE_luci-app-openclash=y
+EOF
         
           # ========================固件定制部分结束========================
           # 
